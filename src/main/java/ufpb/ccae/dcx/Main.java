@@ -1,3 +1,5 @@
+package ufpb.ccae.dcx;
+
 public class Main {
     public static void main(String[] args) {
         // Consegue sacar

@@ -1,3 +1,5 @@
+package ufpb.ccae.dcx;
+
 public class Conta {
 
     private Integer numero;
